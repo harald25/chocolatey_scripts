@@ -1,0 +1,9 @@
+#PC setup:
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+choco install googlechrome brave adobereader vlc atom notepadplusplus.install jre8 putty.install git winscp dropbox spotify steam origin arduino cccp keepass virtualbox dotnetfx slack autodesk-fusion360 vscode windirstat -y 
+Jottacloud
+Adobe CC + Photoshop, Illustrator, Lightroom
+Office
+Arduino
+Teensyduino
+Platform IO
